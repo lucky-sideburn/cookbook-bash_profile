@@ -1,4 +1,4 @@
-# tcdr_vars cookbook
+# bash_profile cookbook
 
 # Requirements
 
